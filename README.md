@@ -33,4 +33,4 @@ Since we have removed all the 9th graders' info from the csv, I believe the scho
 ## Summary
 Relacing the 9th graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to plummet. However, after removing all info of Thomas High School 9th graders, Thomas High School regained its high average scores and retained its position as the number two school in the District. It seems replacement is not a good method in this case.
 ## Others
-This challenge is really hard for me when I just in the 4th week of this bootcamp. Thus I choose to skip it at that time. However, after I finished all other work and turn back to this case, things is not challenging to me any more. I believe it's a good thing to prove my pandas knowledge is much better than 4 month ago. :)
+This challenge is really hard for me when I was just in the 4th week of this Bootcamp. Thus I choose to skip it at that time. However, after I finished all other work and turn back to this case, things is not challenging for me anymore. I believe it's a good thing to prove my pandas' knowledge is much better than 4 months ago. :)
